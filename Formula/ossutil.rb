@@ -1,7 +1,7 @@
 class Ossutil < Formula
     desc "A user friendly command line tool to access AliCloud OSS."
     homepage "https://github.com/aliyun/ossutil"
-    version "1.6.13"
+    version "1.7.1"
     url "https://gosspublic.alicdn.com/ossutil/#{version}/ossutilmac64"
     sha256 "c3fbf9392a9af823d52b874e53c521fd99fabfccdd290b8ef677f7acac4cff57"
 
